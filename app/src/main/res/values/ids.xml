@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="iv_icons" type="id" />
+    <item name="toolbar" type="id" />
+    <item name="sign_in_button" type="id" />
+
+</resources>

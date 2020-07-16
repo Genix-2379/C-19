@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Covid-19</string>
+    <string name="test_app">Test app</string>
+    <string name="textview">TextView</string>
+
+    <string name="key_name"><u>Already a user? Sign in</u>.</string>
+
+
+<string name="stay_home_save_lives">STAY HOME.SAVE LIVES.</string>
+    <string name="stay_home_save_lives_help_stop_coronavirus">STAY HOME.SAVE LIVES. Help stop coronavirus</string>
+</resources>
